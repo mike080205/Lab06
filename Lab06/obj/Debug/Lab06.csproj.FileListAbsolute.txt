@@ -1,0 +1,11 @@
+C:\Users\ijbol\Универ\2 курс\2 семестр\Стандартизація\Lab06\Lab06\bin\Debug\Lab06.exe.config
+C:\Users\ijbol\Универ\2 курс\2 семестр\Стандартизація\Lab06\Lab06\bin\Debug\Lab06.exe
+C:\Users\ijbol\Универ\2 курс\2 семестр\Стандартизація\Lab06\Lab06\bin\Debug\Lab06.pdb
+C:\Users\ijbol\Универ\2 курс\2 семестр\Стандартизація\Lab06\Lab06\obj\Debug\Lab06.csproj.AssemblyReference.cache
+C:\Users\ijbol\Универ\2 курс\2 семестр\Стандартизація\Lab06\Lab06\obj\Debug\Lab06.csproj.SuggestedBindingRedirects.cache
+C:\Users\ijbol\Универ\2 курс\2 семестр\Стандартизація\Lab06\Lab06\obj\Debug\Lab06.fMain.resources
+C:\Users\ijbol\Универ\2 курс\2 семестр\Стандартизація\Lab06\Lab06\obj\Debug\Lab06.Properties.Resources.resources
+C:\Users\ijbol\Универ\2 курс\2 семестр\Стандартизація\Lab06\Lab06\obj\Debug\Lab06.csproj.GenerateResource.cache
+C:\Users\ijbol\Универ\2 курс\2 семестр\Стандартизація\Lab06\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+C:\Users\ijbol\Универ\2 курс\2 семестр\Стандартизація\Lab06\Lab06\obj\Debug\Lab06.exe
+C:\Users\ijbol\Универ\2 курс\2 семестр\Стандартизація\Lab06\Lab06\obj\Debug\Lab06.pdb
